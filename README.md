@@ -7,13 +7,10 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ialexanderbrito/be-the-hero.svg">
   
-  <a href="https://github.com/ialexanderbrito/be-the-hero/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ialexanderbrito/be-the-hero.svg"></a>
-
   <a href="https://github.com/ialexanderbrito/be-the-hero/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/ialexanderbrito/be-the-hero.svg"></a>
     
-   <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/ialexanderbrito/be-the-hero?label=blue">
+   <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/ialexanderbrito/be-the-hero?label=version">
  
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-blueviolet"></a>
@@ -45,10 +42,6 @@ Extras:
 ### 💻 Demo Web
 
 [https://be-the-hero-oficial.netlify.com/](https://be-the-hero-oficial.netlify.com/)
-
-### 📱 App
-
-[Download para Android](https://github.com/ialexanderbrito/be-the-hero/releases/tag/1.0.0)
 
 ### 💻 Projeto
 
@@ -83,7 +76,7 @@ E também será preciso um editor, eu indico o <b>[VSCode](https://code.visualst
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/be-the-hero
+$ git clone https://github.com/pGaldino25/be-the-hero
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd be-the-hero
@@ -104,7 +97,7 @@ $ npm run dev ou yarn dev
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/be-the-hero
+$ git clone https://github.com/pGaldino25/be-the-hero
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd be-the-hero
@@ -125,7 +118,7 @@ $ npm start ou yarn start
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/be-the-hero
+$ git clone https://github.com/pGaldino25/be-the-hero
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd be-the-hero
