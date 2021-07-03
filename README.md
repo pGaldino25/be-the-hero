@@ -13,7 +13,7 @@
    <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/ialexanderbrito/be-the-hero?label=version">
  
   <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-blueviolet"></a>
+    <img alt="Mentorship by Rocketseat" src="https://img.shields.io/badge/Mentorship%20-Rocketseat-blueviolet"></a>
     <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet">
 </p>
 
@@ -133,3 +133,6 @@ $ npm install ou yarn add
 $ expo start
 
 ```
+
+Também é possível ver um video da aplicação [aqui](https://youtu.be/2DelOlAgFbU)
+
